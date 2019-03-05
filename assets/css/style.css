@@ -3,6 +3,12 @@
     padding: 0;
 }
 
+.top-container {
+    background:#ffffff;
+    border-style:solid;
+    border-color:#dddddd;
+    padding-bottom: 10px;}
+
 
 .my-container {
     /* border-width: thick; */
@@ -69,4 +75,8 @@ body {
 
 a {
     text-decoration: none ;
+ }
+
+.btn-link {
+    text-decoration: none;
  }
